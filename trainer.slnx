@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="trainer.csproj" Id="818435ca-a722-4fca-9571-88bacf635add">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
